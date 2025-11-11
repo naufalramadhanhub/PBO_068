@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/utils/Utils.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/lembur/FormLembur.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/penggajian/FormPenggajian.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/database/Koneksi.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/keterlamabatan/FormKeterlambatan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/authentiocation/FormLogin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/authentiocation/AuthenticationController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/authentiocation/FormUser.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/home/HomePage.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/penggajian_app/Penggajian_app.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/cuti/FormCuti.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/authentiocation/User.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/cuti/Cuti.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/cuti/CutiController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/jabatan/FormJabatan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/jabatan/Jabatan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/jabatan/JabatanController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/karyawan/FormKaryawan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/karyawan/Karyawan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/karyawan/KaryawanController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/keterlamabatan/Keterlambatan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/keterlamabatan/KeterlambatanController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/lembur/Lembur.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/lembur/LemburController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/penggajian/Penggajian.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/penggajian_apps-master/src/penggajian/PenggajianController.java</file>
+        </group>
+    </open-files>
+</project-private>
